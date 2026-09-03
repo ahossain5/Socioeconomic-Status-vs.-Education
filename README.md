@@ -77,6 +77,18 @@ The visualizations were designed to present the findings from multiple perspecti
 
 After completing the Power BI dashboard, I used SmartPLS 4 to further examine the relationships between educational attainment, poverty rates, and median household income. Regression analysis was used to estimate the direction and strength of these relationships, followed by bootstrapping to evaluate their statistical significance.
 
+### Regression Results
+
+The regression analysis showed a positive relationship between educational attainment and median household income (β = 0.459), indicating that higher levels of educational attainment were associated with higher median household incomes. Poverty rate showed a negative relationship with median household income (β = -0.529), indicating that higher poverty rates were associated with lower median household incomes.
+
+The model produced an R² value of 0.737 for median household income, meaning that educational attainment and poverty rate together explained approximately 73.7% of the variance in median household income within the model.
+
+### Bootstrapping Results
+
+Bootstrapping was performed to evaluate the statistical significance of the relationships identified in the regression analysis. The relationship between educational attainment and median household income produced a T-value of 32.112, while the relationship between poverty rate and median household income produced a T-value of 39.184.
+
+Both T-values exceeded the commonly used 1.96 threshold for statistical significance at the 5% level, providing strong statistical support for the relationships observed in the model.
+
 
 ## Key Findings
 
@@ -92,6 +104,7 @@ After completing the Power BI dashboard, I used SmartPLS 4 to further examine th
 - **Microsoft Excel** – Data cleaning, organization, PivotTables, conditional formatting, sorting, filtering, and chart creation
 - **Power Pivot** – Relational data modeling and creating relationships between multiple datasets using shared fields
 - **Power BI** – Interactive dashboard development and data visualization
+- **SmartPLS 4** – Regression analysis, bootstrapping, and statistical significance testing
 - **Data Preparation** – Combining multiple datasets, aligning records, and preparing data for analysis
 - **Data Analysis** – Identifying, comparing, and interpreting relationships between socioeconomic and educational measures
 - **Data Visualization** – Communicating findings through charts, scatter plots, trendlines, and interactive visuals
