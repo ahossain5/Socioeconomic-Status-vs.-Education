@@ -68,6 +68,8 @@ The visualizations were designed to present the findings from multiple perspecti
 
 ![Power BI Dashboard](./Power%20BI/Dashboard%20(Socioeconomic%20Status%20vs.%20Education).png)
 
+**Power BI Project:** [View Power BI Project File](./Power%20BI/PowerBI%20Visualizations%20(Socioeconomic%20Status%20vs.%20Education).pbix)
+
 
 ## Key Findings
 
