@@ -36,7 +36,7 @@ After preparing the data, I used Excel Power Pivot to build a relational data mo
 
 Using the completed data model, I created three PivotTables to explore the relationships between socioeconomic status and educational attainment. Each PivotTable was designed to answer a different question within the analysis and was paired with a chart to make the results easier to interpret.
 
-
+![Power Pivot Relationships](./Excel%20Analysis/Power%20Pivot%20Relationships%20(Socioeconomic%20Status%20vs.%20Education).png)
 
 ### PivotTable 1 – Median Household Income vs. Poverty Rate
 
