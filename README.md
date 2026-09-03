@@ -122,6 +122,7 @@ The repository is organized to reflect the progression of the project from raw d
 - **[Cleaned Data](./Cleaned%20Data/)** – Prepared and aligned datasets used for analysis
 - **[Excel Analysis](./Excel%20Analysis/)** – Excel workbook containing the Power Pivot data model, PivotTables, and charts
 - **[Power BI](./Power%20BI/)** – Power BI project file and dashboard preview
+- **[SmartPLS](./SmartPLS/)** – Regression and bootstrapping results used to evaluate relationships between educational attainment, poverty, and median household income
 
 
 
