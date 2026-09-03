@@ -72,6 +72,11 @@ The visualizations were designed to present the findings from multiple perspecti
 **Power BI Project:** [View Power BI Project File](./Power%20BI/PowerBI%20Visualizations%20(Socioeconomic%20Status%20vs.%20Education).pbix)
 
 
+## SmartPLS Statistical Analysis
+
+After completing the Power BI dashboard, I used SmartPLS 4 to further examine the relationships between educational attainment, poverty rates, and median household income. Regression analysis was used to estimate the direction and strength of these relationships, followed by bootstrapping to evaluate their statistical significance.
+
+
 ## Key Findings
 
 - **Income and Poverty:** Counties with lower poverty rates generally had higher median household incomes, showing an inverse relationship between the two measures.
