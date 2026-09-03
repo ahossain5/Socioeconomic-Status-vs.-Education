@@ -89,6 +89,8 @@ Bootstrapping was performed to evaluate the statistical significance of the rela
 
 Both T-values exceeded the commonly used 1.96 threshold for statistical significance at the 5% level, providing strong statistical support for the relationships observed in the model.
 
+![SmartPLS Regression Results](./SmartPLS/Regression%20Results%20(Socioeconomic%20Status%20vs.%20Education).jpg)
+
 
 ## Key Findings
 
