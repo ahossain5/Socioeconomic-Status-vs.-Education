@@ -36,7 +36,7 @@ After preparing the data, I used Excel Power Pivot to build a relational data mo
 
 Using the completed data model, I created three PivotTables to explore the relationships between socioeconomic status and educational attainment. Each PivotTable was designed to answer a different question within the analysis and was paired with a chart to make the results easier to interpret.
 
-**Excel Analysis:** [View Excel & Power Pivot Analysis Workbook](./Excel%20Analysis/Analysis%20(Socioeconomic%20Status%20vs.%20Education).xlsx)
+
 
 ### PivotTable 1 – Median Household Income vs. Poverty Rate
 
@@ -59,6 +59,8 @@ The analysis compares the population living in poverty with the number of adults
 The chart shows a strong positive relationship, with counties that have larger populations of adults without a high school diploma also tending to have larger populations living in poverty. The trendline produced an R² value of 0.9974, indicating that the two measures closely follow the observed linear pattern within this analysis.
 
 However, both measures represent population counts rather than rates, meaning county population size may influence the strength of this relationship. The result should therefore be interpreted as an observed association between the two measures rather than evidence that lower educational attainment directly causes higher poverty.
+
+**Excel Analysis:** [View Excel & Power Pivot Analysis Workbook](./Excel%20Analysis/Analysis%20(Socioeconomic%20Status%20vs.%20Education).xlsx)
 
 ## Power BI Dashboard
 
