@@ -83,13 +83,15 @@ The regression analysis showed a positive relationship between educational attai
 
 The model produced an R² value of 0.737 for median household income, meaning that educational attainment and poverty rate together explained approximately 73.7% of the variance in median household income within the model.
 
+![SmartPLS Regression Results](./SmartPLS/Regression%20Results%20(Socioeconomic%20Status%20vs.%20Education).jpg)
+
 ### Bootstrapping Results
 
 Bootstrapping was performed to evaluate the statistical significance of the relationships identified in the regression analysis. The relationship between educational attainment and median household income produced a T-value of 32.112, while the relationship between poverty rate and median household income produced a T-value of 39.184.
 
 Both T-values exceeded the commonly used 1.96 threshold for statistical significance at the 5% level, providing strong statistical support for the relationships observed in the model.
 
-![SmartPLS Regression Results](./SmartPLS/Regression%20Results%20(Socioeconomic%20Status%20vs.%20Education).jpg)
+
 
 
 ## Key Findings
