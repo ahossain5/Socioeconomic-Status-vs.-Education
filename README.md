@@ -16,6 +16,8 @@ The data used in this project was obtained from the USDA Economic Research Servi
 
 **Source:**  [USDA Economic Research Service – County-level Data Sets](https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data)
 
+**Project Data:** [View Raw Data Files](./Raw%20Data/)
+
 
 ## Data Preparation
 
