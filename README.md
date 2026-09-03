@@ -27,6 +27,8 @@ Since the datasets contained different measured, I used the FIPS code as the com
 
 Once the data was cleaned and aligned, the prepared datasets were organized into a single Excel workbook for use in the Power Pivot data model and subsequent analysis.
 
+**Cleaned Dataset:** [View Cleaned Data Workbook](./Cleaned%20Data/Cleaned%20Data%20(Socioeconomic%20Status%20vs.%20Education).xlsx)
+
 
 ## Excel & Power Pivot Analysis
 
