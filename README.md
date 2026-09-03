@@ -7,7 +7,7 @@ This project analyzes the relationship between socioeconomic conditions and educ
 
 The analysis examines median household income, poverty rates, and educational attainment to explore how socioeconomic conditions relate to education across different areas of the United States.
 
-The purpose of this project was to demonstrate how raw data can be transformed into a clear story through proper analysis and visualization. The datasets were organized around a shared field, allowing information from each dataset to be connected and analyzed together. Using Excel Power Pivot, I built relationships between the datasets and developed PivotTables and charts to examine trends and comparisons. The analysis was then expanded into an interactive Power BI dashboard to present key findings in a clear and accessible way.
+The purpose of this project was to demonstrate how raw data can be transformed into a clear story through proper analysis and visualization. The datasets were organized around a shared field, allowing information from each dataset to be connected and analyzed together. Using Excel Power Pivot, I built relationships between the datasets and developed PivotTables and charts to examine trends and comparisons. The analysis was then expanded into an interactive Power BI dashboard to present key findings in a clear and accessible way. Finally, I used SmartPLS 4 to perform regression and bootstrapping analyses to further evaluate the relationships between educational attainment, poverty, and median household income.
 
 
 ## Data Sources
